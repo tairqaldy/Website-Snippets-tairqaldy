@@ -55,7 +55,7 @@ Below is the list of available snippets in this repository:
 
 ---
 
-## 🛠️ Technologies Used (#technologies-used)
+## 🛠️ Technologies Used
 
 This repository uses the following technologies:
 
